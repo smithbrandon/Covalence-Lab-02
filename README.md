@@ -1,4 +1,6 @@
 # Lab 02: 99 Lines of Code In The File - Part 1
+## [Demo Link](https://smithbrandon.github.io/Covalence-Lab-02/)
+
 ## Due: Thursday, June 1st
 ##### Covalence 
 ###### Full Stack: Summer 2017
